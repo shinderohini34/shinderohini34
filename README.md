@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi👋, I'm Rohini</h1>
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
+
 ⚡I'm a coding enthusiast<br>🔭 I’m currently working on an e-commerce project <br>👯I am always looking to expand my knowledge and skills, and am actively seeking opportunities to collaborate on new projects<br>🌱 I’m currently learning Redux<br>💬 Ask me about Web Development<br>⚡ Fun fact: I'm lazy but smart <br>
-📄 Know about my experiences https://drive.google.com/file/d/1jKxRfNQa-i4DDv8vaFZy0GHuE82T2AZc/view?usp=share_link
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1jKxRfNQa-i4DDv8vaFZy0GHuE82T2AZc/view?usp=share_link">Resume</a> 
 
 
 # 💻 Tech Stack:
